@@ -6,7 +6,7 @@ This project extracts data from .csv files, puts it into a Postgre database, and
 
 The data content is about the World Wealth of each country broken down into several topics.
 
-The data model is the following bellow:
+The data model is the following below:
 
 ![alt text](https://github.com/ugrodrigo/data_modeling_project/blob/main/Data%20Model.jpg)
 
